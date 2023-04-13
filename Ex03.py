@@ -9,6 +9,5 @@ def contar_caracteres(string):
 
 
 palavra = input("Digite uma palavra para contar cada caractere nela: ")
-string = "banana"
 contagem = contar_caracteres(palavra)
 print(contagem)
